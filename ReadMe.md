@@ -7,4 +7,4 @@ In my spare time I mostly do:
 
 * CTFs
 * Reverse Engineering
-* Tinkering with Kernels (BSD, Linux)
+* Tinkering with kernels (BSD, Linux, "Open-Source Assembly Kernel" from Windows)
